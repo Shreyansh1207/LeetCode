@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shreyansh1207/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shreyansh1207/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
