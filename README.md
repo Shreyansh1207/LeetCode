@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreyansh1207/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shreyansh1207/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1580-shuffle-the-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shreyansh1207/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreyansh1207/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shreyansh1207/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shreyansh1207/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shreyansh1207/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
