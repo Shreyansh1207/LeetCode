@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shreyansh1207/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Shreyansh1207/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Shreyansh1207/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
