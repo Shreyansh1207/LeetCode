@@ -11,8 +11,8 @@ public:
                 if(i==0)continue;
                 if(cur==0){
                     cur=i;
-                    i=0;
-                    continue;
+                    
+                    
                 }
                 i-=cur;
 
