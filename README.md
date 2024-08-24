@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1791-richest-customer-wealth](https://github.com/Shreyansh1207/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh1207/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/Shreyansh1207/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shreyansh1207/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Game Theory
