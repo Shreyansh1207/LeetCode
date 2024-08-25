@@ -1,22 +1,19 @@
+bool c(int a, int b) {
+    return to_string(a) + to_string(b) > to_string(b) + to_string(a);
+}
+
+
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
-        vector<string> numStrs;
-        for(int num : nums) {
-            numStrs.push_back(to_string(num));
+        sort(nums.begin(), nums.end(), c);
+        string ans = "";
+        for (int i = 0; i < nums.size(); i++) {
+            ans += to_string(nums[i]);
         }
 
-        sort(numStrs.begin(), numStrs.end(), [](string &a, string &b) {
-            return a + b > b + a;
-        });
+        if(ans[0]=='0')return "0";
 
-        if(numStrs[0] == "0") return "0";
-
-        string largestNum = "";
-        for(string &numStr : numStrs) {
-            largestNum += numStr;
-        }
-
-        return largestNum;
+        return ans;
     }
 };
