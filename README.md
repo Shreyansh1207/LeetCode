@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shreyansh1207/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1791-richest-customer-wealth](https://github.com/Shreyansh1207/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh1207/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
