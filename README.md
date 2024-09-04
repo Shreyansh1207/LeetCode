@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Shreyansh1207/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shreyansh1207/LeetCode/tree/master/0561-array-partition) |
+| [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -308,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
