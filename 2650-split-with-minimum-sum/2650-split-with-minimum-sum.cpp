@@ -5,7 +5,7 @@ public:
     sort(digits.begin(), digits.end());
     
     string num1, num2;
-    for (size_t i = 0; i < digits.size(); ++i) {
+    for (int i = 0; i < digits.size(); ++i) {
         if (i % 2 == 0) {
             num1 += digits[i];
         } else {
