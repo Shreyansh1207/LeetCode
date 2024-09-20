@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Shreyansh1207/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreyansh1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
