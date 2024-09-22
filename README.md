@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shreyansh1207/LeetCode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shreyansh1207/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Shreyansh1207/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0898-transpose-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shreyansh1207/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Shreyansh1207/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
