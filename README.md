@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shreyansh1207/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shreyansh1207/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Shreyansh1207/LeetCode/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shreyansh1207/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shreyansh1207/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/Shreyansh1207/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shreyansh1207/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
