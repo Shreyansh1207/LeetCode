@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
