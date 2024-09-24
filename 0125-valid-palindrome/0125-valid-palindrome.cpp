@@ -1,20 +1,40 @@
 class Solution {
 public:
+    string toLowerCase(string s){
+        for(int i=0;i<s.length();i++){
+            if(s[i]>='A' && s[i]<='Z'){
+                s[i]=s[i]+'a'-'A';
+            }
+        }
+        return s;
+    }
     bool isPalindrome(string s) {
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-        s.erase(remove_if(s.begin(), s.end(), [](char c) {
-        return !isalnum(c);
-        }), s.end());
-
-        int i=0;
-        int j=s.size()-1;
-        while(i<j){
-            
-            if(s[i]!=s[j]){
+        if(s==""){
+            return true;
+        }
+        s=toLowerCase(s);
+        int n = s.length();
+        int i = 0;
+        int j = n;
+        while(i<n && j>=0)
+        {
+            if (isalnum(s[i]) == 0)
+            {
+                i++;
+            }
+            else if (isalnum(s[j]) == 0)
+            {
+                j--;
+            }
+            else if (s[i] == s[j])
+            {
+                ++i; 
+                j--;
+            }
+            else
+            {
                 return false;
             }
-            i++;
-            j--;
         }
         return true;
     }
