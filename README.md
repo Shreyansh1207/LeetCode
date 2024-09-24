@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shreyansh1207/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shreyansh1207/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shreyansh1207/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shreyansh1207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shreyansh1207/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shreyansh1207/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Shreyansh1207/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Shreyansh1207/LeetCode/tree/master/0412-fizz-buzz) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
