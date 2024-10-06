@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shreyansh1207/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shreyansh1207/LeetCode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shreyansh1207/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh1207/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shreyansh1207/LeetCode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
