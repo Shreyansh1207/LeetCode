@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shreyansh1207/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Shreyansh1207/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shreyansh1207/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shreyansh1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shreyansh1207/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shreyansh1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shreyansh1207/LeetCode/tree/master/0198-house-robber) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shreyansh1207/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyansh1207/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
