@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Shreyansh1207/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Shreyansh1207/LeetCode/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
