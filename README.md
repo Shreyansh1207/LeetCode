@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3330-modify-the-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Shreyansh1207/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyansh1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyansh1207/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
