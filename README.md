@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Shreyansh1207/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shreyansh1207/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Shreyansh1207/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Shreyansh1207/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
