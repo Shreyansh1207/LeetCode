@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shreyansh1207/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shreyansh1207/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Geometry
 |  |
 | ------- |
