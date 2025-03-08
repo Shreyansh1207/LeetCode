@@ -6,11 +6,10 @@ public:
         double avg=INT_MIN;
         double cur=0;
         while(j<nums.size()){
-            if(j-i+1<k){
-                cur+=nums[j];
-            }
+            
+            cur+=nums[j];
+            
             if(j-i+1==k){
-                cur+=nums[j];
                 double a=cur/k;
                 avg=max(a,avg);
                 cur-=nums[i];
