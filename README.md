@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shreyansh1207/LeetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shreyansh1207/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Shreyansh1207/LeetCode/tree/master/0792-binary-search) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Geometry
 |  |
