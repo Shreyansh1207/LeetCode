@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Shreyansh1207/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Shreyansh1207/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shreyansh1207/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Geometry
 |  |
 | ------- |
