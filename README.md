@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
