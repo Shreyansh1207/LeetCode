@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shreyansh1207/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreyansh1207/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shreyansh1207/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Shreyansh1207/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shreyansh1207/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreyansh1207/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shreyansh1207/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh1207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shreyansh1207/LeetCode/tree/master/0198-house-robber) |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh1207/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shreyansh1207/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
