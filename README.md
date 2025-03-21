@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyansh1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shreyansh1207/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreyansh1207/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shreyansh1207/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
@@ -565,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shreyansh1207/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
