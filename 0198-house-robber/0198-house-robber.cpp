@@ -1,22 +1,24 @@
 class Solution {
 public:
-
-    int newrob(vector<int>&nums,int i,vector<int>&DP){
-        if(i>=nums.size()) return 0;
-        if(DP[i]!=-1) return DP[i];
+    int solve(vector<int>nums,int cur,vector<int>&dp){
         
-        int choice1=INT_MIN;
-        int choice2=INT_MIN;
-        if(i<nums.size()){
-            choice1=nums[i]+newrob(nums,i+2,DP);
+        if(cur>nums.size()-1){
+            return 0;
         }
-        choice2=newrob(nums,i+1,DP);
-        return DP[i]=max(choice1,choice2);
+        if(dp[cur]!=-1){
+            return dp[cur];
+        }
+        int choice1,choice2;
+        choice1=solve(nums,cur+2,dp);
+        choice2=solve(nums,cur+3,dp);
+        return dp[cur]=nums[cur]+max(choice1,choice2);
     }
     int rob(vector<int>& nums) {
-        int i=0;
-        vector<int>DP(nums.size(),-1);
-        return newrob(nums,i,DP);
-        
+        if(nums.size()==0)return 0;
+        if(nums.size()-1==1){
+            return max(nums[0],nums[1]);
+        }
+        vector<int>dp(nums.size(),-1);
+        return max(solve(nums,0,dp),solve(nums,1,dp));
     }
 };
