@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shreyansh1207/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -500,11 +501,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shreyansh1207/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh1207/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shreyansh1207/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Shreyansh1207/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shreyansh1207/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh1207/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/Shreyansh1207/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Rolling Hash
 |  |
 | ------- |
