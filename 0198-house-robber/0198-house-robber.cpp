@@ -9,9 +9,9 @@ public:
             return dp[cur];
         }
         int choice1,choice2;
-        choice1=solve(nums,cur+2,dp);
-        choice2=solve(nums,cur+3,dp);
-        return dp[cur]=nums[cur]+max(choice1,choice2);
+        choice1=nums[cur]+solve(nums,cur+2,dp);
+        choice2=solve(nums,cur+1,dp);
+        return dp[cur]=max(choice1,choice2);
     }
     int rob(vector<int>& nums) {
         if(nums.size()==0)return 0;
