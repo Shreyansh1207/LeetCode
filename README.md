@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh1207/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Shreyansh1207/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shreyansh1207/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0494-target-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shreyansh1207/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shreyansh1207/LeetCode/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
