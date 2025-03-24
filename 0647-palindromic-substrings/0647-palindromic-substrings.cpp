@@ -13,6 +13,8 @@ public:
         return dp[i][j]=0;
     }
     int countSubstrings(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int count=0;
         vector<vector<int>>dp(1001,vector<int>(1001,-1));
         for (int i = 0; i < s.size(); i++) {
