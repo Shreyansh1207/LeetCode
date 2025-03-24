@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int solve(string &s,int i,int j,vector<vector<int>>&dp){
         if(i>=j){
             return 1;
@@ -12,7 +13,7 @@ public:
         }
         return dp[i][j]=0;
     }
-    int countSubstrings(string s) {
+    int countSubstrings(string &s) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         int count=0;
