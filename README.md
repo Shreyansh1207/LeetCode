@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Shreyansh1207/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shreyansh1207/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shreyansh1207/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Shreyansh1207/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shreyansh1207/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shreyansh1207/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shreyansh1207/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyansh1207/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shreyansh1207/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shreyansh1207/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shreyansh1207/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Shreyansh1207/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shreyansh1207/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
 | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Game Theory
 |  |
 | ------- |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shreyansh1207/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -609,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
