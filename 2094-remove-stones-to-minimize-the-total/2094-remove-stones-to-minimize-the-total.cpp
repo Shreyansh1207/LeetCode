@@ -1,22 +1,46 @@
 class Solution {
 public:
-    int minStoneSum(vector<int>& piles, int k) {
+//     int minStoneSum(vector<int>& piles, int k) {
+//         int n=piles.size();
+//         vector<int>freq(1001,0);
+//         int i;
+//         for(i=0;i<n;i++){
+//             freq[piles[i]]++;
+//         }
+//         for(i=10000;i>0&&k>0;i--){
+//             while(freq[i]>0 && k>0){
+//                 freq[i]--;
+//                 freq[(i+1)/2]++;
+//                 k--;
+//             }
+//         }
+//         int sum=0;
+//         for(i=0;i<=10000;i++){
+//             if(freq[i]>0){
+//                 sum=sum+(freq[i]*i);
+//             }
+//         }
+//         return sum;
+//     }
+// };
+int minStoneSum(vector<int>& piles, int k) {
         int n=piles.size();
-        priority_queue<int>pq;
-        for(auto it:piles){
-            pq.push(it);
+        vector<int> freq(10001);
+        for(int i=0;i<n;i++){
+            freq[piles[i]]++;
         }
-        while(k>0){
-            int maxE=pq.top();
-            pq.pop();
-            maxE=maxE-floor(maxE/2);
-            pq.push(maxE);
-            k--;
+        for(int i=10000;i>0&&k>0;i--){
+            while(freq[i]>0 && k>0){
+                freq[i]--;
+                freq[(i+1)/2]++;
+                k--;
+            }
         }
         int sum=0;
-        while(!pq.empty()){
-            sum=sum+pq.top();
-            pq.pop();
+        for(int i=0;i<=10000;i++){
+            if(freq[i]>0){
+                sum=sum+freq[i]*i;
+            }
         }
         return sum;
     }
