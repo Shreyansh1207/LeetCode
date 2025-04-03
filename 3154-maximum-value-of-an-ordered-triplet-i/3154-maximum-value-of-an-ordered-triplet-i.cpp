@@ -1,12 +1,12 @@
 class Solution {
 public:
     long long maximumTripletValue(vector<int>& nums) {
-        long maxTriplet = 0, maxElement = 0, maxDiff = 0;
+        long maxT = 0, maxE = 0, maxD = 0;
         for (long num : nums) {
-            maxTriplet = max(maxTriplet, maxDiff * num);
-            maxDiff = max(maxDiff, maxElement - num);
-            maxElement = max(maxElement, num);
+            maxT = max(maxT, maxD * num);
+            maxD = max(maxD, maxE - num);
+            maxE = max(maxE, num);
         }
-        return maxTriplet;
+        return maxT;
     }
 };
