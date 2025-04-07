@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Shreyansh1207/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh1207/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shreyansh1207/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0416-partition-equal-subset-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shreyansh1207/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
