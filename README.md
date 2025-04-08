@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shreyansh1207/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Shreyansh1207/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Shreyansh1207/LeetCode/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1791-richest-customer-wealth](https://github.com/Shreyansh1207/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shreyansh1207/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shreyansh1207/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shreyansh1207/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
