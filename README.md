@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shreyansh1207/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shreyansh1207/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyansh1207/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shreyansh1207/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shreyansh1207/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Shreyansh1207/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shreyansh1207/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Shreyansh1207/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
