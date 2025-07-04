@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreyansh1207/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shreyansh1207/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shreyansh1207/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shreyansh1207/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Shreyansh1207/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Shreyansh1207/LeetCode/tree/master/0326-power-of-three) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyansh1207/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0908-middle-of-the-linked-list) |
