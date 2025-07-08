@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shreyansh1207/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shreyansh1207/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyansh1207/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyansh1207/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shreyansh1207/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyansh1207/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyansh1207/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
