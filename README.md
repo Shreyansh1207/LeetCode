@@ -706,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shreyansh1207/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
