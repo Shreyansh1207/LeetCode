@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shreyansh1207/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyansh1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Shreyansh1207/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shreyansh1207/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shreyansh1207/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shreyansh1207/LeetCode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shreyansh1207/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Queue
