@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyansh1207/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shreyansh1207/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Shreyansh1207/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Shreyansh1207/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Shreyansh1207/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shreyansh1207/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shreyansh1207/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2681-put-marbles-in-bags](https://github.com/Shreyansh1207/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Shreyansh1207/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shreyansh1207/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shreyansh1207/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shreyansh1207/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shreyansh1207/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Shreyansh1207/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shreyansh1207/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shreyansh1207/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shreyansh1207/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Shreyansh1207/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2681-put-marbles-in-bags](https://github.com/Shreyansh1207/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Shreyansh1207/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shreyansh1207/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Game Theory
 |  |
