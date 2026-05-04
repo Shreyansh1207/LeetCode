@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh1207/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyansh1207/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shreyansh1207/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyansh1207/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Shreyansh1207/LeetCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyansh1207/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh1207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh1207/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyansh1207/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreyansh1207/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
