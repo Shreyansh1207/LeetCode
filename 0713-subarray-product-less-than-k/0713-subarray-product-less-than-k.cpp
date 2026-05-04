@@ -8,7 +8,7 @@ public:
         int pro=1;
         while(j<nums.size()){
             pro*=nums[j];
-            if(pro>=k){
+            while(pro>=k){
                 pro/=nums[i];
                 i++;
             }
