@@ -769,4 +769,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Shreyansh1207/LeetCode/tree/master/0175-combine-two-tables) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Shreyansh1207/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Shreyansh1207/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
