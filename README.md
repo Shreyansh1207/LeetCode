@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shreyansh1207/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shreyansh1207/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shreyansh1207/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Shreyansh1207/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Shreyansh1207/LeetCode/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyansh1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shreyansh1207/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shreyansh1207/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyansh1207/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
