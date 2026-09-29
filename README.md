@@ -782,4 +782,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Shreyansh1207/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh1207/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
