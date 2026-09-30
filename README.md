@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-valid-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shreyansh1207/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/Shreyansh1207/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Shreyansh1207/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Shreyansh1207/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0792-binary-search](https://github.com/Shreyansh1207/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyansh1207/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shreyansh1207/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shreyansh1207/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shreyansh1207/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shreyansh1207/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreyansh1207/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shreyansh1207/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh1207/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shreyansh1207/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Shreyansh1207/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreyansh1207/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shreyansh1207/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreyansh1207/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh1207/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
