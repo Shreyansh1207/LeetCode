@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Shreyansh1207/LeetCode/tree/master/0816-design-hashset) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shreyansh1207/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Shreyansh1207/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh1207/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1500-count-largest-group](https://github.com/Shreyansh1207/LeetCode/tree/master/1500-count-largest-group) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shreyansh1207/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh1207/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreyansh1207/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh1207/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Shreyansh1207/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh1207/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreyansh1207/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh1207/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh1207/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shreyansh1207/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreyansh1207/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
