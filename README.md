@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreyansh1207/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyansh1207/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shreyansh1207/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Shreyansh1207/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/Shreyansh1207/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Shreyansh1207/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh1207/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/Shreyansh1207/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyansh1207/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh1207/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shreyansh1207/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Shreyansh1207/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyansh1207/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh1207/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyansh1207/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Shreyansh1207/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shreyansh1207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh1207/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreyansh1207/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
